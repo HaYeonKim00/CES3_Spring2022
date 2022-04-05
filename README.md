@@ -21,3 +21,6 @@ For the wifi set up code part, after assigning ssid_Router and password_Router, 
 
 ## Video
 [CES3_spring2022](https://youtu.be/axDH8re7FYI)
+
+## More about this project
+[blog post for the project](https://ordinary-tenor-7bd.notion.site/CES_Mod3_Spring2022-e58083e46332459289b361f54fe25137)
