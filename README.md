@@ -19,6 +19,10 @@ Our entire class used this [link](https://github.com/mbennett12/kinetic-sculptur
 #### connecting wifi
 For the wifi set up code part, after assigning ssid_Router and password_Router, we can connect it by using ```WIFI.begin()```. Make sure that you are using the same wifi for the IP address as well. 
 
+## How we used the code
+
+We had three ESP32s and two motors were connected to each ESP32: a servo motor and a stepper motor. We all uploaded the same code but only the wifi connections were done differently since we were testing in different locations. However, the code can be reused with the same wifi if we were connected to the same wifi.  
+
 ## Video
 [CES3_spring2022](https://youtu.be/axDH8re7FYI)
 
